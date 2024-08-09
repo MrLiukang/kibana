@@ -6368,6 +6368,10 @@
   version "0.0.0"
   uid ""
 
+"@kbn/server-route-repository-client@link:packages/kbn-server-route-repository-client":
+  version "0.0.0"
+  uid ""
+
 "@kbn/server-route-repository-utils@link:packages/kbn-server-route-repository-utils":
   version "0.0.0"
   uid ""
@@ -6713,6 +6717,10 @@
   uid ""
 
 "@kbn/synthetics-plugin@link:x-pack/plugins/observability_solution/synthetics":
+  version "0.0.0"
+  uid ""
+
+"@kbn/synthetics-private-location@link:x-pack/packages/kbn-synthetics-private-location":
   version "0.0.0"
   uid ""
 
